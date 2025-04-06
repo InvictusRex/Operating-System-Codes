@@ -67,5 +67,5 @@ Use GCC to compile the programs:
 
 ```bash
 gcc filename.c -o outputname.o
-./outputname
+./outputname.o
 ```
